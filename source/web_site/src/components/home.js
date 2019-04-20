@@ -10,7 +10,7 @@ class Home extends Component {
       <div>
         <Container>
           <Col>
-              <h1 className="display-3"  align="center">Sense Traffic Pulse Media Analysis Solution</h1>
+              <h1 className="display-3"  align="center">Sense Traffic Pulse On Demand Media Analysis Solution</h1>
               <hr className="my-2" />
               <p className="lead" align="center">This solution leverages Amazon-native serverless services to automatically analyze, extract, index, and search on valuable metadata from your own image, video, and audio files</p>
           </Col>
