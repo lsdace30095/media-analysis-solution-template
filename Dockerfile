@@ -1,5 +1,5 @@
 # This file is a template, and might need editing before it works on your project.
-FROM python:3.6
+FROM python:3.7
 
 # Edit with mysql-client, postgresql-client, sqlite3, etc. for your needs.
 # Or delete entirely if not needed.
